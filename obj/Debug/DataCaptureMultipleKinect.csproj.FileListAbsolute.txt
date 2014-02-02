@@ -1,0 +1,74 @@
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe.config
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.pdb
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.csprojResolveAssemblyReference.cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\MainWindow.baml
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\MainWindow.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\App.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect_MarkupCompile.cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.g.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.Properties.Resources.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.csproj.GenerateResource.Cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe.config
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.exe
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.pdb
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.pdb
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\MainWindow.baml
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\App.g.cs
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect_MarkupCompile.cache
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.g.resources
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.Properties.Resources.resources
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Christopher\Desktop\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe.config
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.exe
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.exe
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\DataCaptureMultipleKinect.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\MainWindow.baml
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\MainWindow.g.cs
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\App.g.cs
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect_MarkupCompile.cache
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.g.resources
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\KinectFusion170_64.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\obj\Debug\DataCaptureMultipleKinect_Content.g.cs
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\KinectFusion170_32.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\bin\Debug\Microsoft.Kinect.Toolkit.pdb

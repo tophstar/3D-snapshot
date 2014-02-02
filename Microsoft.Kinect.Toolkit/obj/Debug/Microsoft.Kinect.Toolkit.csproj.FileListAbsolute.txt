@@ -1,0 +1,24 @@
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

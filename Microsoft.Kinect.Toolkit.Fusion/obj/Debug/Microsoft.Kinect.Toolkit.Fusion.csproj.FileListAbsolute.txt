@@ -1,0 +1,20 @@
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\KinectFusion170_32.dll
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\KinectFusion170_64.dll
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\Microsoft.Kinect.Toolkit.Fusion.Resources.resources
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Christopher\Desktop\Kinect\Kinect Fusion\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\KinectFusion170_32.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\KinectFusion170_64.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\Microsoft.Kinect.Toolkit.Fusion.Resources.resources
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Christopher\Desktop\Kinect\2380_Code\2380_10_Code\DataCaptureMultipleKinect\Microsoft.Kinect.Toolkit.Fusion\obj\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
